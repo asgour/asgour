@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asgour
 - 👀 I’m interested in Web Design & Development
-- 🌱 I’m currently learning UI/UX Design, React & Node
-- 💞️ I’m looking to collaborate on HTML, CSS & JavaScript projects
+- 🌱 I’m currently learning UI/UX Design & Graphic Design
+- 💞️ I’m looking to collaborate on UI/UX projects
 <!--- - 📫 How to reach me 
 
 
